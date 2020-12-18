@@ -5,6 +5,8 @@
 ## Purpose of the analysis
 The purpose of the analysis is to create a summary DataFrame of the ride-sharing data by city type. Included in this analysis is a multiple-line graph that illustrates the total weekly fares for each city type. 
 
+### Tools Used: JupyterNotebook, Python 3.7.9, Pandas, Matplotlib
+
 # Results
 
 ## Data Summary 
